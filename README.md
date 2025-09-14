@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @jianlin-herman-li
 - 🔗 [homepage](https://jianlin-herman-li.github.io/)
-- 📄 [CV](https://jianlin-herman-li.github.io/pdf/EngineeringResumes_Theme.pdf)
+- 📄 [CV](https://jianlin-herman-li.github.io/pdf/RenderCV_EngineeringResumes_Theme.pdf)
